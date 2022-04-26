@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                    App tareas: Andrade Maria Jose CI: 1722339817, Vinicio Rosales 1720545670
                 </a>
             </div>
 
