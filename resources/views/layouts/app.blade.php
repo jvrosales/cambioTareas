@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    App tareas: Andrade Maria Jose CI: 1722339817, Vinicio Rosales 1720545670
+                    App tareas: Andrade Maria Jose CI: 1722339817, Vinicio Rosales 1720545670, Paulina Ortiz 1720250024, Melissa Moran 0922594114, Daniel Acurio 1803306834
                 </a>
             </div>
 
